@@ -1,0 +1,7 @@
+numpy
+pandas
+sklearn
+jinja2
+Flask
+Werkzeug
+gunicorn
